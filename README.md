@@ -43,7 +43,6 @@ This script performs the following tasks:
 ## Output
 
 The script generates a report file named `jpd-data-collection.txt` containing the collected data from the JPD. The report includes various sections such as system information, license details, repository information, storage details, access entities, project details, and Xray configuration.
-An example report is in [jpd-data-collection.txt](output/jpd-data-collection.txt)
 
 ## Notes
 
