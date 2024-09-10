@@ -15,6 +15,12 @@ bash ./jpd-data-collection.sh <JPD_URL> <JPD_TOKEN> <TYPE> [DETAILS]
 - `<TYPE>`: Type of JPD, either `sh` for self-hosted or `saas` for SaaS.
 - `[DETAILS]`: Optional argument. Specify `true` to include detailed information in the report.
 
+## Usage
+
+```bash
+bash ./jpd-data-collection.sh https://myartifactory.com ABCD******** sh true
+```
+
 ## Prerequisites
 
 - JFrog CLI installed and configured.
